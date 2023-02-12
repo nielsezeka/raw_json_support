@@ -2,7 +2,7 @@
 	"main_page_config": {
 		"highlight_images": [{
 			"image_url": "https://source.unsplash.com/featured/300x201?t=1",
-			"keyword": ["a", "b", "c"]
+			"keyword": ["a1", "b", "c"]
 		}, {
 			"image_url": "https://source.unsplash.com/featured/300x201?t=2",
 			"keyword": ["a", "b", "c"]
