@@ -2,15 +2,15 @@
 	"main_page_config": {
 		"top_images": [{
 				"thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-				"button_name": "Manga"
+				"button_name": "Photo Cartoonizer"
 			},
 			{
 				"thumbnail": "https://images.unsplash.com/photo-1655721533109-bce2aee6b6f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
-				"button_name": "Manga"
+				"button_name": "AI Art From Text"
 			},
 			{
 				"thumbnail": "https://plus.unsplash.com/premium_photo-1672759323793-7fff002b3f8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=728&q=80",
-				"button_name": "Manga"
+				"button_name": "AI Art From Photo"
 			}
 		],
 		"highlight_images": [{
