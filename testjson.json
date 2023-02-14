@@ -36,7 +36,7 @@
 	"ai_text_to_art_config": {
 		"suggestions": ["Cats and dogs", "There's a lot of cats in the trees", " At the zoo we have big cats from the jungle", "Cute cat say hello"],
 		"style": [{
-				"thumbnail": "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+				"thumbnail": "https://source.unsplash.com/featured/300x201?t=1",
 				"name": "Anime Berserk",
 				"id": "31"
 			},
