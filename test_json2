@@ -1,0 +1,123 @@
+{
+	"use_real_hotpot": true,
+	"use_real_hotpot_release": true,
+	"main_page_config": {
+		"top_images": [{
+				"thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+				"button_name": "Photo Cartoonizer",
+				"excuting_type": "cartoonize"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1655721533109-bce2aee6b6f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+				"button_name": "AI Art From Text",
+				"excuting_type": "fromText"
+			},
+			{
+				"thumbnail": "https://plus.unsplash.com/premium_photo-1672759323793-7fff002b3f8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=728&q=80",
+				"button_name": "AI Art From Photo",
+				"excuting_type": "fromPhoto"
+			}
+		],
+		"highlight_images": [{
+			"image_url": "https://source.unsplash.com/featured/300x201?t=1",
+			"keyword": ["a1", "b", "c"]
+		}, {
+			"image_url": "https://source.unsplash.com/featured/300x201?t=2",
+			"keyword": ["a", "b", "c"]
+		}, {
+			"image_url": "https://source.unsplash.com/featured/300x201?t=3",
+			"keyword": ["a", "b", "c"]
+		}, {
+			"image_url": "https://source.unsplash.com/featured/300x201?t=4",
+			"keyword": ["a", "b", "c"]
+		}, {
+			"image_url": "https://source.unsplash.com/featured/300x201?t=5",
+			"keyword": ["a", "b", "c"]
+		}]
+	},
+	"ai_text_to_art_config": {
+		"suggestions": ["Cats and dogs", "There's a lot of cats in the trees", " At the zoo we have big cats from the jungle", "Cute cat say hello"],
+		"style": [{
+				"thumbnail": "https://source.unsplash.com/featured/300x201?t=1",
+				"name": "Anime Berserk",
+				"id": "31"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1655634535242-b056d585dfd9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+				"name": "Korean Anime",
+				"id": "32"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Comic Book",
+				"id": "10"
+			}
+		],
+		"detail": [{
+				"section": "Screen detail",
+				"name": "abc",
+				"id": "18"
+			},
+			{
+				"section": "Screen detail",
+				"name": "abc 1",
+				"id": "99"
+			},
+			{
+				"section": "Light effect",
+				"name": "abc 2",
+				"id": "96"
+			},
+			{
+				"section": "Light effect",
+				"name": "abc 3",
+				"id": "light2"
+			},
+			{
+				"section": "Light effect",
+				"name": "abc 4",
+				"id": "3light3"
+			}
+		]
+	},
+	"gallery": {
+		"ai_from_text": [{
+				"image_url": "https://images.unsplash.com/photo-1626548307930-deac221f87d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=834&q=80",
+				"detail": ["xxxx", "yyy"],
+				"style": ["xxxx", "yyy"]
+			},
+			{
+				"image_url": "",
+				"detail": ["xxxx", "yyy"],
+				"style": ["xxxx", "yyy"]
+			},
+			{
+				"image_url": "",
+				"detail": ["xxxx", "yyy"],
+				"style": ["xxxx", "yyy"]
+			}
+		],
+		"ai_from_photo": [{
+				"image_url": "https://images.unsplash.com/photo-1583512604014-7bdde60a71e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+				"detail": ["xxxx", "yyy"],
+				"style": ["xxxx", "yyy"]
+			},
+			{
+				"image_url": "",
+				"detail": ["xxxx", "yyy"],
+				"style": ["xxxx", "yyy"]
+			}
+		],
+		"photo_cartoon": [{
+				"image_url": "https://images.unsplash.com/photo-1626548307930-deac221f87d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=834&q=80",
+				"detail": ["xxxx", "yyy"],
+				"style": ["xxxx", "yyy"]
+			},
+			{
+				"image_url": "",
+				"detail": ["xxxx", "yyy"],
+				"style": ["xxxx", "yyy"]
+			}
+		]
+	}
+}
