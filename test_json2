@@ -6,25 +6,25 @@
 				"thumbnail": "https://hotpot.ai/images/site/ai/art_maker/teaser.jpg",
 				"button_name": "Diffusion Image",
 				"excuting_type": "cartoonize",
-				"description": "Turn imagination into art. Our AI image generator brings imagination to life, producing stunning art, illustrations, and images in seconds. Unleash creativity and express yourself like never before with the latest technological advances. Enter text below, and watch it turn into art.",
+				"description": "Turn imagination into art. Our AI image generator brings imagination to life, producing stunning art, illustrations, and images in seconds. Unleash creativity and express yourself like never before with the latest technological advances. Enter text below, and watch it turn into art."
 			},
 			{
 				"thumbnail": "https://hotpot.ai/images/site/ai/colorizer/teaser.jpg",
 				"button_name": "Restore and Cartoonize",
 				"excuting_type": "fromText",
-				"description": "Colorize pictures with AI, turning black and white photos to color in seconds. Reimagine the past by colorizing pictures of ancestors and historic figures.",
+				"description": "Colorize pictures with AI, turning black and white photos to color in seconds. Reimagine the past by colorizing pictures of ancestors and historic figures."
 			},
 			{
 				"thumbnail": "https://hotpot.ai/images/site/ai/background_remover/teaser.jpg",
 				"button_name": "RemoveBackground",
 				"excuting_type": "fromPhoto",
-				"description": "Remove the background from images with AI in seconds. Our AI is designed to recognize products and people, automatically erasing the background. Hotpot helps e-commerce companies, marketing agencies, and other organizations automate background removal.",
+				"description": "Remove the background from images with AI in seconds. Our AI is designed to recognize products and people, automatically erasing the background. Hotpot helps e-commerce companies, marketing agencies, and other organizations automate background removal."
 			},
 			{
 				"thumbnail": "https://hotpot.ai/images/site/ai/art_remixer/teaser.jpg",
 				"button_name": "Personalize",
 				"excuting_type": "fromPhoto",
-				"description": "Turn life into personalized art with AI. Invigorate boring selfies, pet photos, and vacation pictures by recreating them in different artistic styles. From Van Gogh to pixel art to Chinese paintings, our AI is your personal street artist and can generate custom artistic pieces from across the style spectrum.",
+				"description": "Turn life into personalized art with AI. Invigorate boring selfies, pet photos, and vacation pictures by recreating them in different artistic styles. From Van Gogh to pixel art to Chinese paintings, our AI is your personal street artist and can generate custom artistic pieces from across the style spectrum."
 			}
 		],
 		"highlight_images": [{
