@@ -1,5 +1,5 @@
 {
-	"use_real_hotpot": false,
+	"use_real_hotpot": true,
 	"main_page_config": {
 		"top_images": [{
 				"thumbnail": "https://hotpot.ai/images/site/ai/art_maker/teaser.jpg",
