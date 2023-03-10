@@ -5,5 +5,9 @@
 		"term_of_condition_url": "",
 		"policy_url": ""
 	},
-	"tutorial_video_embed_url": ""
+	"tutorial_video_embed_url": "",
+	"craw_service": {
+		"show_debug_banner": true,
+		"service": "sstik"
+	}
 }
