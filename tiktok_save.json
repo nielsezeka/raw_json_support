@@ -9,5 +9,11 @@
 	"craw_service": {
 		"show_debug_banner": true,
 		"service": "sstik"
-	}
+	},
+	"prebuild_hashtag": ["#boy #love #girl #like #follow #cute",
+		"#cool #love #like #fashion #follow #style",
+		"#beautiful #cute #photography #amazing #fun #art",
+		"#girl #love #like #follow #fashion #beautiful",
+		"#photooftheday #cute #style #happy #smile #picoftheday #me"
+	]
 }
