@@ -12,7 +12,7 @@
 		"term_of_condition_url": "https://docs.google.com/document/d/1U38lD9FAKUgF3x024qGZIQA0W_iwfcjQcXHMmXjoe-s/mobilebasic",
 		"policy_url": "https://docs.google.com/document/d/1kg1kalgolZhI8ZjkiMabkA8_I81emI-LFTugkTfIo1s/mobilebasic"
 	},
-	"tutorial_video_embed_url": "",
+	"tutorial_images": [""],
 	"craw_service": {
 		"show_debug_banner": true,
 		"service": "sstik"
