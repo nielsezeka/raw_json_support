@@ -1,9 +1,15 @@
 {
 	"side_menu": {
-		"write_review_url": "xxxx",
-		"share_app_url": "xxxx",
-		"term_of_condition_url": "",
-		"policy_url": ""
+		"write_review_url": {
+			"android": "xxx",
+			"ios": "xxx"
+		},
+		"share_app_url": {
+			"android": "xxx",
+			"ios": "xxx"
+		},
+		"term_of_condition_url": "xxx",
+		"policy_url": "xxxx"
 	},
 	"tutorial_video_embed_url": "",
 	"craw_service": {
