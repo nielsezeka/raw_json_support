@@ -5,8 +5,8 @@
 			"ios": "itms-apps://itunes.apple.com/app/id1235601864"
 		},
 		"share_app_url": {
-			"android": "xxx",
-			"ios": "xxx"
+			"android": "https://www.google.com/",
+			"ios": "https://www.google.com/"
 		},
 		"term_of_condition_url": "xxx",
 		"policy_url": "xxxx"
