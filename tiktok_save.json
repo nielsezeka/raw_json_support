@@ -12,7 +12,7 @@
 		"term_of_condition_url": "https://docs.google.com/document/d/1U38lD9FAKUgF3x024qGZIQA0W_iwfcjQcXHMmXjoe-s/mobilebasic",
 		"policy_url": "https://docs.google.com/document/d/1kg1kalgolZhI8ZjkiMabkA8_I81emI-LFTugkTfIo1s/mobilebasic"
 	},
-	"tutorial_images": ["https://i.imgur.com/njYi5lo.png"],
+	"tutorial_images": ["https://i.imgur.com/njYi5lo.png","https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80","https://i.imgur.com/njYi5lo.png"],
 	"craw_service": {
 		"show_debug_banner": true,
 		"service": "sstik"
