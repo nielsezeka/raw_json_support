@@ -1,0 +1,9 @@
+{
+	"subject": ["amazon girl", "a lion with wings", "a blue whale", "a haunted house", "a rainbow unicorn", "a chocolate cake", "a superhero", "a pirate ship", "a snowman", "a volcano", "a diamond ring", "a soccer ball", "Spider-Man", "Batman", "Superman", "Wonder Woman", "Iron Man", "Captain America", "Hulk", "Thor", "Black Widow", "Wolverine", "Deadpool", "Harley Quinn", "The Joker", "Catwoman", "Daredevil", "Black Panther", "Doctor Strange", "Captain Marvel", "Ant-Man", "The Flash", "doctor", "lawyer", "engineer", "chef", "pilot", "nurse", "artist", "writer", "actor", "dentist"],
+	"action": ["walking", "jumping", "sitting", "standing", "sleeping", "eating", "drinking", "reading", "writing", "singing", "dancing", "playing", "working", "studying", "laughing", "crying", "smiling", "frowning", "talking", "listening", "watching", "painting", "drawing", "cooking", "baking", "cleaning", "washing", "ironing", "shopping", "driving", "biking", "swimming", "skiing", "skating", "hiking", "camping", "fishing", "hunting", "gardening", "knitting", "sewing", "cutting", "pasting", "folding", "tearing", "throwing", "catching", "kicking", "punching", "scratching"],
+	"context": ["forest", "desert", "mountain", "city", "park", "lake", "river", "ocean", "island", "cave", "castle", "farm", "school", "hospital", "museum", "zoo", "library", "stadium", "airport", "mall", "hotel", "restaurant", "cinema", "theater", "church", "temple", "mosque", "palace", "pyramid", "tower", "bridge", "garden", "waterfall", "volcano", "iceberg", "glacier", "tundra", "savanna", "swamp", "marsh", "prairie", "meadow", "field", "orchard", "vineyard", "plantation", "factory", "mine", "quarry", "landfill"],
+	"ads": {
+		"ios": "always",
+		"android": "bottom"
+	}
+}
