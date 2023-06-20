@@ -6,5 +6,6 @@
 		"ios": "always",
 		"android": "bottom"
 	},
-	"apimode": "manual"
+	"apimode": "manual",
+	"boundary": "multipart/form-data; boundary=----1686022827277toywubrwildirnmo----",
 }
