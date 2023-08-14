@@ -3,17 +3,17 @@
 	"use_real_hotpot_release": false,
 	"main_page_config": {
 		"top_images": [{
-				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/top%20image%2FBanner1.png?alt=media&token=8baed6be-3938-4f6d-abb1-48c06eda9fa2",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/top%20image%2FBanner1.png?alt=media&token=ac5738bc-96d0-4944-b909-412fa8012615",
 				"button_name": "Photo Cartoonizer",
 				"excuting_type": "cartoonize"
 			},
 			{
-				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/top%20image%2FBanner2.png?alt=media&token=e80e2adf-8187-4f95-bc25-0385e0eb2c08",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/top%20image%2FBanner2.png?alt=media&token=d0502a8c-3b7a-4f94-b04e-29031141da67",
 				"button_name": "AI Art From Text",
 				"excuting_type": "fromText"
 			},
 			{
-				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/top%20image%2FBanner3.png?alt=media&token=d4098c34-63bd-477b-9090-23930c629197",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/top%20image%2FBanner3.png?alt=media&token=794e428a-9715-4773-930f-eeea733582ce",
 				"button_name": "AI Art From Photo",
 				"excuting_type": "fromPhoto"
 			}
