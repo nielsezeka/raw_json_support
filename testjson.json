@@ -33,6 +33,9 @@
 		}, {
 			"image_url": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/top%20image%2Frecomment5.png?alt=media&token=39911922-8cbe-4b81-bdc9-f8082b4a0c5a",
 			"keyword": ["a", "b", "c"]
+		}, {
+			"image_url": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/top%20image%2Frecomment6.png?alt=media&token=0208ed72-d7ff-495c-855c-bd221d85e0cc",
+			"keyword": ["a", "b", "c"]
 		}]
 	},
 	"ai_text_to_art_config": {
