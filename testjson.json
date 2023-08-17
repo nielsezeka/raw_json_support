@@ -42,18 +42,113 @@
 		"suggestions": ["Cats and dogs", "There's a lot of cats in the trees", " At the zoo we have big cats from the jungle", "Cute cat say hello"],
 		"style": [{
 				"thumbnail": "https://source.unsplash.com/featured/300x201?t=1",
-				"name": "Anime Berserk",
-				"id": "31"
+				"name": "Christmas",
+				"id": "1"
 			},
 			{
 				"thumbnail": "https://images.unsplash.com/photo-1655634535242-b056d585dfd9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
-				"name": "Korean Anime",
-				"id": "32"
+				"name": "Khokhloma",
+				"id": "2"
 			},
 			{
 				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Comic Book",
+				"name": "Portrait photo",
+				"id": "3"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Studio photo",
+				"id": "4"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Cartoon",
+				"id": "5"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "3D render",
+				"id": "6"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Soviet cartoon",
+				"id": "7"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Medieval painting",
+				"id": "8"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Medieval painting",
+				"id": "9"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Digital painting",
 				"id": "10"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Pencil drawing",
+				"id": "11"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Oil painting",
+				"id": "12"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Renaissance",
+				"id": "13"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Classicism",
+				"id": "14"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Goncharova",
+				"id": "15"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Picasso",
+				"id": "16"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Malevich",
+				"id": "17"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Aivazovsky",
+				"id": "18"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Kandinsky",
+				"id": "19"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Cyberpunk",
+				"id": "20"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Detailed photo",
+				"id": "21"
+			},
+			{
+				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"name": "Anime",
+				"id": "22"
 			}
 		],
 		"detail": [{
