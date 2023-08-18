@@ -1,6 +1,6 @@
 {
-	"use_real_hotpot": false,
-	"use_real_hotpot_release": false,
+	"use_real_hotpot": true,
+	"use_real_hotpot_release": true,
 	"main_page_config": {
 		"top_images": [{
 				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/top%20image%2FBanner1.png?alt=media&token=ac5738bc-96d0-4944-b909-412fa8012615",
