@@ -42,114 +42,109 @@
 	"ai_text_to_art_config": {
 		"suggestions": ["Cats and dogs", "There's a lot of cats in the trees", " At the zoo we have big cats from the jungle", "Cute cat say hello"],
 		"style": [{
-				"thumbnail": "https://source.unsplash.com/featured/300x201?t=1",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FChristmas.jpg?alt=media&token=044ccbeb-620d-429b-bcb2-e93772f9f468",
 				"name": "Christmas",
 				"id": "1"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1655634535242-b056d585dfd9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FKhokhloma.jpg?alt=media&token=d3d09867-9a97-4fc6-800a-6118e288d6fd",
 				"name": "Khokhloma",
 				"id": "2"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FPortrait%20Photo.jpg?alt=media&token=e6568578-044b-4aad-b099-1fbe24927410",
 				"name": "Portrait photo",
 				"id": "3"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FStudio%20Photo.jpg?alt=media&token=07d785a0-dbaa-469f-8573-ca42650d9430",
 				"name": "Studio photo",
 				"id": "4"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FCartoon.jpg?alt=media&token=dd255530-0d59-4009-8b6e-9f628244f4e8",
 				"name": "Cartoon",
 				"id": "5"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2F3D%20Render.jpg?alt=media&token=fcb39778-8f6b-4353-baed-f162b9b84ed6",
 				"name": "3D render",
 				"id": "6"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FSoviet%20Cartoon.jpg?alt=media&token=5f950ab9-5163-4d88-ad9d-9baed7fd6050",
 				"name": "Soviet cartoon",
 				"id": "7"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FMedieval%20Painting.jpg?alt=media&token=d441b6bc-026f-48aa-a8de-b12100901c76",
 				"name": "Medieval painting",
 				"id": "8"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Medieval painting",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FDigital%20Painting.jpg?alt=media&token=cdaaf59b-9b62-4335-b26e-d40bb14f00af",
+				"name": "Digital painting",
 				"id": "9"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Digital painting",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FPencil%20Drawing.jpg?alt=media&token=7a2b1864-6920-4803-b59b-bc9d6b58b73e",
+				"name": "Pencil drawing",
 				"id": "10"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Pencil drawing",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FOil%20Painting.jpg?alt=media&token=794c955d-210c-41c4-9d79-a6217dc30734",
+				"name": "Oil painting",
 				"id": "11"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Oil painting",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FRenaissance.jpg?alt=media&token=628887bc-f12a-46e9-baae-59ea2c48fd25",
+				"name": "Renaissance",
 				"id": "12"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Renaissance",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FClassicism.jpg?alt=media&token=70ee51db-1b4e-4844-9516-89eb7210b763",
+				"name": "Classicism",
 				"id": "13"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Classicism",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FGoncharova.jpg?alt=media&token=d68038ab-e310-4585-a476-8ca2a2d35af2",
+				"name": "Goncharova",
 				"id": "14"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Goncharova",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FPicasso.jpg?alt=media&token=60fa34d6-d907-4a2d-846c-83c683d330b2",
+				"name": "Picasso",
 				"id": "15"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Picasso",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FMalevich.jpg?alt=media&token=321ef67a-bd52-486e-8102-05f83953c790",
+				"name": "Malevich",
 				"id": "16"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Malevich",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FAivazovsky.jpg?alt=media&token=cdfd8c27-b72e-419e-b0a9-e54068cf7841",
+				"name": "Aivazovsky",
 				"id": "17"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Aivazovsky",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FKandinsky.jpg?alt=media&token=f416448e-1304-4f2e-904c-6e1cc6e81bcb",
+				"name": "Kandinsky",
 				"id": "18"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Kandinsky",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2FCyberpunk.jpg?alt=media&token=333b71b2-7d51-4a22-b1ba-1cf09785ac41",
+				"name": "Cyberpunk",
 				"id": "19"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Cyberpunk",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2Fdetailed%20photo.jpg?alt=media&token=2e7df66b-eaa1-41e2-a4e6-39dddd8e6fd1",
+				"name": "Detailed photo",
 				"id": "20"
 			},
 			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
-				"name": "Detailed photo",
-				"id": "21"
-			},
-			{
-				"thumbnail": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80",
+				"thumbnail": "https://firebasestorage.googleapis.com/v0/b/art-nft-creator.appspot.com/o/style%20image%2Fanime.jpg?alt=media&token=939e40a4-a1e5-44ff-9053-f623228969e7",
 				"name": "Anime",
-				"id": "22"
+				"id": "21"
 			}
 		],
 		"detail": [{
